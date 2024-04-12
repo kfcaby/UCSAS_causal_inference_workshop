@@ -17,7 +17,9 @@ For this handout and some R code, please go here:
 ![](images/qrcode.png){width=250}
 
 github
+
 user: kfcaby
+
 repo: UCSAS_causal_inference_workshop
 
 \newpage
@@ -152,25 +154,7 @@ Treatment assignment is independent of potential outcomes, given a set of observ
 
 * Positivity
 
-```{asis, include = !params$solutions}
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-```
+\newpage
 
 
 ```{asis}
