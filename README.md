@@ -8,7 +8,7 @@ Files:
 
 * handouts_complete.pdf - contains completed note sheets (available after the workshop)
 
-* bunting.R - R script for methods discussed in the workshop
+* propensity_score_models.R - R script for methods discussed in the workshop
 
 * data - folder containing the dataset used for this example
 
